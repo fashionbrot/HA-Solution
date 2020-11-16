@@ -10,3 +10,6 @@
 
 ### 3、mysql 开发作者博客
     https://www.yuque.com/zhangcq/mysql/bl4d4g
+    
+### 4、优秀笔记
+    https://www.yuque.com/zhangcq
