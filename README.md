@@ -13,3 +13,6 @@
     
 ### 4、优秀笔记
     https://www.yuque.com/zhangcq
+    
+### 5、阿里系统架构演练
+    https://www.jianshu.com/p/f4a907fe1485
